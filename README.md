@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harbingeer
+- 👋 Hi, I’m @Jgbanks28
 - 👀 I’m interested in ... Data analytics and database management
 - 🌱 I’m currently learning ... Data analytics and database management
 - 📫 How to reach me ... Jgbanks28@gmail.com
